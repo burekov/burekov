@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "RealNames",
+  "description": "Replace few names...",
+  "version": "1.1",
+
+  "permissions": [
+     "tabs", "http://*/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["jquery-1.10.1.min.js", "rename.js"]
+    }
+  ]
+}
