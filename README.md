@@ -4,6 +4,15 @@
 
 Защото обичаме бюрек!
 
+---
+
+Бареков -> Бюреков
+Станишев -> Съселов
+Орешарски -> Олигархски
+БСП -> БКП
+
+---
+
 Как се инсталира приставката в Chrome:
 
 * Download  *burekov.crx*  from this website and save it to your computer.
