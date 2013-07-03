@@ -3,7 +3,7 @@
 
   "name": "RealNames",
   "description": "Replace few names...",
-  "version": "1.1",
+  "version": "1.2",
 
   "permissions": [
      "tabs", "http://*/*"
